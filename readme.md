@@ -4,13 +4,13 @@ The Yellow Sign is a symbol first mentioned in the Robert W. Chambers' 1895 work
 
 In 1989 Kevin Ross designed a symbol to be the visual representation of the yellow sign for the Call of Cthulhu tabletop RPG. That design is quite popular but it isn't freely available to use, so in 2020 tabletop RPG publisher Pelgrane Press [tasked Christian Knutsson](https://pelgranepress.com/2020/02/06/our-yellow-sign-is-your-yellow-sign/) with designing a new version of the sign, which they then placed into the public domain. Unfortunately this yellow sign was only provided as a pack of low-resolution PNGs, with the largest being 400 pixels square.
 
-I wanted to use this sign but found it was too low resolution for my purposes. So, I traced the original and made a vector graphic (.svg) out of it which is what you will find in this repository. Being a vector graphic this image is infinitely resizeable to any resolution without any loss in quality. Enjoy!
+I wanted to use this sign but found it was too low resolution for my purposes. So, I traced the original and made a vector graphic (.svg) out of it which is what you will find in this repository. Being a vector graphic this image is infinitely resizeable to any resolution without any loss in quality. It also has an alpha background so you can easily layer it over whatever you like. Enjoy!
 
-<img src="the-yellow-sign.svg" width="256"/>
+<img src="the-yellow-sign.svg" width="512"/>
 
 ## Changing the Color
 
-I picked the color I found online most commonly associated with the yellow sign which is `#ffd00b`. If you want to change the color just open up the .svg file in your favorite text editor and find-replace `#ffd00b` with a different hex color of your choosing.
+I picked the color I found online most commonly associated with the yellow sign which is `#ffd00b`. If you want to change the color just open up the .svg file in your favorite text editor and find-replace `#ffd00b` with a different hex color of your choosing. You should _probably_ pick a shade of yellow, but that's up to you.
 
 ## License
 
